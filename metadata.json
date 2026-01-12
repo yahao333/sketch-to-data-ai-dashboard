@@ -1,0 +1,5 @@
+{
+  "name": "Sketch-to-Data AI Dashboard",
+  "description": "A smart dashboard that binds data to UI by recognizing hand-drawn sketches using Gemini AI.",
+  "requestFramePermissions": []
+}
